@@ -30,7 +30,7 @@ const ColorMapping = () => {
   return (
     <div className="m-4 md:m-10 mt-24 p-10 bg-white dark:bg-secondary-dark-bg rounded-3xl">
       <Header title="Color Mapping" category="Chart" />
-      <p className="text-center font-semibold mb-4">
+      <p className="text-center dark:text-gray-200 text-xl mb-2 mt-3">
         USA CLIMATE - WEATHER BY MONTH
       </p>
       <div className="w-full">
